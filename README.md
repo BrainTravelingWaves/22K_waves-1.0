@@ -16,7 +16,7 @@ inverse_problem_for_clusters.py*
 
 *To run a python script, the simplest solution is to install the anaconda environment and spyder inside it.
 
-Add data links:
+Add links:
 
 https://drive.google.com/drive/folders/1OTXIi-phF9qcGPkINed5q-psDgqSGnMi?usp=sharing
 
