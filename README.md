@@ -14,7 +14,9 @@ inverse_problem_for_clusters.py**
 *In the variant with enumeration of different starting vertices, there may still be errors !!!
 **To run a python script, the simplest solution is to install the anaconda environment and spyder inside it.
 Add data links:
+
 https://drive.google.com/drive/folders/1OTXIi-phF9qcGPkINed5q-psDgqSGnMi?usp=sharing
+
 https://cloud.mail.ru/public/V768/P9rgxNMr6
 
 See test data in 22K_waves1.0/data
