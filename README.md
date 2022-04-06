@@ -7,8 +7,11 @@ https://doi.org/10.1101/2020.05.17.101121
 https://doi.org/10.1016/j.neuroimage.2020.117677
 
 Script run order:
+
 wave_localization.m
+
 create_basic_wave.m
+
 inverse_problem_for_clusters.py*
 
 *To run a python script, the simplest solution is to install the anaconda environment and spyder inside it.
